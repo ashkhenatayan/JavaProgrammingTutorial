@@ -31,7 +31,6 @@ public class Bin2Dec {
                 }  // else for '0' - do nothing
             }
 
-            // Print result
-            System.out.println(dec);
+
         }
 }
